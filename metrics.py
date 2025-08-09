@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 from typing import List, Tuple
 from tqdm.auto import tqdm
 import torch

@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 import os, json, math
 from typing import Dict, List, Tuple
 

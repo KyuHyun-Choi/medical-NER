@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 import os, re, json
 from glob import glob
 from dataclasses import dataclass
