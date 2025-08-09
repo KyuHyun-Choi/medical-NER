@@ -1,4 +1,3 @@
-# trainer.py
 import os, json, math
 from typing import Dict, List
 
